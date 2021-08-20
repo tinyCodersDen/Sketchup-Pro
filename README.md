@@ -1,2 +1,2 @@
 # Sketchup-Pro
-Simple drawing app using pygame!
+Simple sketching app using pygame! This is the first version of this app
